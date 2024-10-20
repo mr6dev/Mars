@@ -1,1 +1,5 @@
-alert ("jim jam!!")
+function helloWorld(){
+  console.log("hello World");
+}
+
+helloWorld();
